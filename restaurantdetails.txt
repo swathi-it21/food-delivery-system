@@ -1,0 +1,5 @@
+restaurant details
+veg non veg
+party hall available or not
+multicuisine restaurant
+ac/non ac
